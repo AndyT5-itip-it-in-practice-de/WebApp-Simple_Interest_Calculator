@@ -1,0 +1,40 @@
+/*  Simple Interest Calculator */
+/*  style.css */
+/*  Copyright 2022 Andreas Krämer */
+
+body {
+    background-color: black;
+    font-family: arial;
+    color: white
+}
+
+h1 {
+    color: grey;
+    font-family: verdana
+}
+
+
+
+/*  mark-highlight  */
+.highlight {
+	font-weight:bold;		     /*looks better when its bold too*/
+    background-color: yellow;
+}
+
+
+/* maine adjust*/
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 480px;
+    padding: 20px;
+    border-radius: 25px;
+    align: center;  /*not function ??*/
+    /*text-align: center;  /* funktion ok but --text shoud stay left looks better + better to adjust */
+}
+
+
+/* one *div-container more* --only text between headline and footer --need to stay more inside*/
+.txtdiv {
+    padding: 40px;
+}
